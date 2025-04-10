@@ -1,3 +1,4 @@
+# *ONLY FOR EDUCATIONAL PURPOSE*
 # 🔄 Keep Server Alive (Render)
 
 This project ensures that a server hosted on **Render** remains active by periodically pinging it using a **Python script** and an additional route to handle external requests.
